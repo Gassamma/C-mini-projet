@@ -1,5 +1,5 @@
 # C-mini-projet-stock-management.
-this project allows user to manage a stock by :
+this project allows user to manage a stock by :  \n
 1- adding product to the stock .
 2-displaying all the products from the stock.
 3-modifying a product through 3 ways : 
